@@ -4,7 +4,7 @@ A multiplayer battle arena where players use their **smartphones as motion contr
 
 >  Academic project for *Web Technologies* — FEUP, University of Porto (Jan 2026)\\
 
-### [Watch the Demo →](docs/demo_video_g05.mov)
+### Watch the [Demo](docs/demo_video_g05.mov)
 
 
 ---
