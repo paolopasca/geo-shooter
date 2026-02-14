@@ -4,7 +4,7 @@ A multiplayer battle arena where players use their **smartphones as motion contr
 
 > 📄 Academic project for *Web Technologies* — FEUP, University of Porto (Jan 2026)
 
-docs/demo_video_g05.mov
+[demo](docs/report.pdf)
 
 > ⬆️ Replace this line with your demo video: edit the README on GitHub, drag & drop `demo.mp4`, and GitHub will generate the embed link automatically.
 
