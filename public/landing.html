@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GEO-SHOOTER</title>
+    <link rel="stylesheet" href="./styles/landing.css" />
+  </head>
+  <body>
+    <!-- Background: blue gradient (revealed by light) -->
+    <div id="bgRevealed"></div>
+
+    <!-- Canvas: draws black darkness with holes where light is -->
+    <canvas id="lightCanvas"></canvas>
+
+    <!-- Intro Layer -->
+    <div id="intro" class="powered-off">
+      <div id="grain"></div>
+      <div id="cursorLight"></div>
+
+      <div id="titleAssembly">
+        <h1 id="gameTitle">GEO-SHOOTER</h1>
+        <button id="powerBtn">Power On</button>
+      </div>
+
+      <div id="hintText">Move to wake</div>
+    </div>
+
+    <!-- CRT Flash Overlay -->
+    <div id="crtFlash"></div>
+
+    <script src="./scripts/landing.js"></script>
+  </body>
+</html>
