@@ -65,7 +65,7 @@ geo-shooter/
 │   │   └── qrcode.min.js
 │   └── sounds/                # Audio files (.mp3)
 ├── docs/
-│   └── demo.mp4               # Gameplay demo video
+│   └── demo_video_g05.mov               # Gameplay demo video
 └── README.md
 ```
 
