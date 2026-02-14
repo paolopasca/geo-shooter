@@ -2,11 +2,10 @@
 
 A multiplayer battle arena where players use their **smartphones as motion controllers** (gyroscope/accelerometer) to navigate and fight on a central PC screen via WebSockets.
 
-> 📄 Academic project for *Web Technologies* — FEUP, University of Porto (Jan 2026)
+>  Academic project for *Web Technologies* — FEUP, University of Porto (Jan 2026)\\
 
-[demo](docs/demo_video_g05.mov)
+### [demo](docs/demo_video_g05.mov)
 
-> ⬆️ Replace this line with your demo video: edit the README on GitHub, drag & drop `demo.mp4`, and GitHub will generate the embed link automatically.
 
 ---
 
